@@ -1,4 +1,5 @@
 <div lang="he" dir="rtl">
+
 # Player With MiniMap
 
 במשחק השחקן משחק דמות בנדית שלקוחה מליטל פייטר.\
