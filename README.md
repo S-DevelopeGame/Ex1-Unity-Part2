@@ -8,4 +8,6 @@
 השחקן יכול לנוע ימינה ושמאלה בלבד.
 
 ![game-part2](https://user-images.githubusercontent.com/58264273/139933856-9fc3b2a0-c793-41a9-a5e6-833ca6acc91b.png)
+
+קישור למשחק: https://snir1551.itch.io/player-with-mini-map
 </div>
