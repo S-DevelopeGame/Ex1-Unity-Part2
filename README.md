@@ -1,3 +1,4 @@
+<div lang="he" dir="rtl">
 # Player With MiniMap
 
 במשחק השחקן משחק דמות בנדית שלקוחה מליטל פייטר.\
@@ -6,3 +7,4 @@
 השחקן יכול לנוע ימינה ושמאלה בלבד.
 
 ![game-part2](https://user-images.githubusercontent.com/58264273/139933856-9fc3b2a0-c793-41a9-a5e6-833ca6acc91b.png)
+</div>
